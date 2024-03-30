@@ -9,7 +9,7 @@ Azle helps you to build secure decentralized/replicated servers in TypeScript or
 For more documentation please see [The Azle Book](https://demergent-labs.github.io/azle/).
 
 Please remember that Azle is in beta and thus it may have unknown security vulnerabilities due to the following:
-    
+
 -   Azle is built with various software packages that have not yet reached maturity
 -   Azle does not yet have multiple independent security reviews/audits
 -   Azle does not yet have many live, successful, continuously operating applications deployed to ICP
@@ -83,7 +83,7 @@ In a separate terminal in the `hello_world` directory:
 dfx deploy
 ```
 
-If you are building an HTTP-based canister and would like your canister to autoreload on file changes (DO NOT deploy to mainnet with autoreload enabled):
+If you are building an HTTP-based canister and would like your canister to autoreload on file changes (DO NOT deploy to mainnet with autoreload enabled): Hola
 
 ```bash
 AZLE_AUTORELOAD=true dfx deploy
