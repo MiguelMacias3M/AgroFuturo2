@@ -9,7 +9,7 @@ Azle helps you to build secure decentralized/replicated servers in TypeScript or
 For more documentation please see [The Azle Book](https://demergent-labs.github.io/azle/).
 
 Please remember that Azle is in beta and thus it may have unknown security vulnerabilities due to the following:
-
+    
 -   Azle is built with various software packages that have not yet reached maturity
 -   Azle does not yet have multiple independent security reviews/audits
 -   Azle does not yet have many live, successful, continuously operating applications deployed to ICP
